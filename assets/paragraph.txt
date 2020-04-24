@@ -1,0 +1,8 @@
+WWinter Olympic Games in Sochi.2014.
+
+This data visualization was created to compare most successful in figure skating counties countries. Data is related to Winter Olympic Games in Sochi, Russia in 2014.
+1st chart is showing women champions and also predictions for 2022 Winter Olympic games.
+Please note that number 3 is Gold, number 2 is Silver medal and number 1 is Bronze medal
+2nd chart is showing total medals count by event and total medals won by team Russia.
+3rd chart is showing total Gold medals by country
+4rth chart is breaking team Russia medals by classes
