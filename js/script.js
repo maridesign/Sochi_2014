@@ -89,7 +89,7 @@ let chart2 = new Chart(myChart2, {
 	},
 	options: {
 		title: {
-			text: "Gold Medals on",
+			text: "Gold Medals Won",
 			display: true
 
 		}
