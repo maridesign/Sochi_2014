@@ -2,7 +2,7 @@
 Visualization of Figure Skating
 
 # Repository requirement
-This repo use [charts,js](https://cdn.jsdelivr.net/npm/chart.js@2.8.0)
+This repo use [charts.js](https://cdn.jsdelivr.net/npm/chart.js@2.8.0)
 
 # MIT License
 MIT License Copyright (c) 2020 Maria Maklakova
