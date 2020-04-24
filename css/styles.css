@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+  margin-top: 10px;
+  padding-top: 36px;
+}
+
+h1
+{
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+ .dataCharts {
+  width: 50%;
+ }
+.container {
+  display: 50%;
+  flex-direction: row;
+  margin-top: 20px;
+  }
+.chart {
+  width: 600px;
+  display: inline-block;
+  margin: 0 auto 10px auto;
+}
+.chart1 {
+  width: 600px;
+  display: inline-block;
+  margin: 0 auto 10px auto;
+   
+}
+.footer {
+ margin-right: auto;
+  margin-top: 28px;
+  margin-right: 10px;
+  position: center;
+}
