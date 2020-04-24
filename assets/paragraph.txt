@@ -1,0 +1,9 @@
+Winter Olympic Games in Sochi.2014.
+
+First I compared all teams, second I identified 3 most successful teams and compared for different parameters.
+
+•	1 chart shows total medals for Women and prediction for upcoming Olympic games.
+•	2 chart shows total Gold medals and distribution by country.
+•	3 chart is showing total medals by event and Russian medals in line.
+•	4 chart shows Russian medals broken by classes.
+
